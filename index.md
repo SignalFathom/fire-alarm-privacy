@@ -16,7 +16,7 @@ We **do not collect, store, share, or sell** any personal or sensitive user data
 The app does not request or require personal permissions beyond basic audio playback.
 
 **Children**  
-This app can be used by all ages. No data is collected from children.
+Committed to follow the Play Families Policy. The developer has committed to follow the Play Families Policy for this app.
 
 **Contact**  
 For questions about this policy, contact **signalfathom@gmail.com**.
